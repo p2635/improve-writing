@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/4522927/214204133-2a18de2a-e537-4f74-a863-2f5c2c02d818.jpg" alt="Image of someone writing" width="400"/>
+
 # Improve Writing
 
 A collection of my notes to improve my writing and editing skills.
