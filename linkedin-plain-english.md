@@ -54,6 +54,7 @@
 - Average sentence length is 20 words.
 
 # Tips
+
 1. Read your text aloud (with your voice): reveal redundancies, lack of transitions, poor sentence structure.
 2. Use fewest words necessary
 3. Use commonly understood words
@@ -66,6 +67,8 @@
 - Writing to impress rather than to express.
 
 "Ever heard the expression as clear as mud? It's intended as a humorous, or a sarcastic way of saying something is difficult to understand. Or, entirely unclear. The expression gives us a visual image, you're looking into a muddy pond and certainly can't see the bottom. Or you see, perhaps, a murkiness."
+
+"Most business writing should have a conversational tone. Except for formal reports of course. Don't confuse 'conversational' with 'slang' (informal)"
 
 # Terms
 
