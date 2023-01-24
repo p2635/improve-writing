@@ -54,7 +54,7 @@
 - Average sentence length is 20 words.
 
 # Tips
-1. Read your text aloud
+1. Read your text aloud (with your voice): reveal redundancies, lack of transitions, poor sentence structure.
 2. Use fewest words necessary
 3. Use commonly understood words
 
