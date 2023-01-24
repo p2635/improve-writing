@@ -2,6 +2,23 @@
 
 A collection of my notes to improve my writing and editing skills.
 
+# Where to practice
+
+Two modes:
+
+1. Write and edit your own stuff.
+2. Analyse and edit other people's stuff.
+
+Stuff:
+
+1. Blog
+2. Linkedin posts
+3. Slack Messages
+4. Emails
+5. Articles (news, jobs)
+
+Reminder to self (24 Jan 2023): I know you're interested in Plain English right now, but it doesn't mean use it everywhere! You perfectionist.
+
 # Resources
 
 Mark complete means:
