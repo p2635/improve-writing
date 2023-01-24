@@ -1,5 +1,7 @@
 # Improve Writing
 
+A collection of my notes to improve my writing and editing skills.
+
 # Resources
 
 Marking complete means that I have gone through a course at least once and taken notes on it.
