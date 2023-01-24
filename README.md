@@ -6,9 +6,9 @@ A collection of my notes to improve my writing and editing skills.
 
 Mark complete means:
 
-* I have studied a course at least once.
-* I have taken notes on it.
-* I have practised it with concrete evidence to show.
+* I studied a course at least once.
+* I took notes on it.
+* I practised it with concrete evidence to show.
 
 The list:
 
