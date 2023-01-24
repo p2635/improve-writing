@@ -1,6 +1,7 @@
 # Writing in Plain English 
 
 **About**
+
 - Platform: Linkedin Learning
 - Author (full name and title): Judy Steiner-Williams. Senior Lecturer at Kelley Business School
 - Released: 24/2/2016
