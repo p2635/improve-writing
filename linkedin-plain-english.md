@@ -1,10 +1,22 @@
 # Writing in Plain English 
 
-- Platform: Linkedin Learning
-- Author (full name and title): Judy Steiner-Williams. Senior Lecturer at Kelley Business School
-- Released: 24/2/2016
-- Course taken: 24 Jan 2023 (ish)
-- Link: https://www.linkedin.com/learning/writing-in-plain-english/
+- [Writing in Plain English](#writing-in-plain-english)
+- [Learning objectives](#learning-objectives)
+- [Course summary](#course-summary)
+- [What is Plain Language?](#what-is-plain-language)
+- [Problems that plain language solves](#problems-that-plain-language-solves)
+- [Some stats](#some-stats)
+- [Tips](#tips)
+- [Interesting Quotes](#interesting-quotes)
+- [Terms](#terms)
+- [Word replacements](#word-replacements)
+- [Practice Activity](#practice-activity)
+
+Platform: Linkedin Learning
+Author (full name and title): Judy Steiner-Williams. Senior Lecturer at Kelley Business School
+Released: 24/2/2016
+Course taken: 24 Jan 2023 (ish)
+Link: https://www.linkedin.com/learning/writing-in-plain-english/
 
 # Learning objectives
 
@@ -25,14 +37,26 @@
 2. Avoid technical language
 3. Help readers understand the first time and saves cost
 
+# Problems that plain language solves
+1. Readers NOT reading your stuff in the first place.
+2. Readers misunderstanding you, create problems with comms. Extra emails, messages, calls for clarification!
+3. Waste time, productivity, and money (you writing/editing and them reading/understanding)
+
+# Some stats
+- Average sentence length is 20 words.
+
 # Tips
 1. Read your text aloud
+2. Use fewest words necessary
+3. Use commonly understood words
 
 # Interesting Quotes
 "Daniel Oppenheimer, a psychologist at Princeton University experimented with easy-to-understand versus more complex versions of writing, in which easy-to-understand words were replaced with more impressive sounding words. Such as changing angry to splenetic. His study concluded that the more grandiose and complex the language used the less intelligent the writer was rated. In other words, using big words made the writer look less educated. The number two mistake in Dawn Josephson's article, The Top 3 Business Writing Mistakes You’re Probably Making Right Now, is writing to impress rather than to express."
 
 - Big words made the writer look less intelligent.
 - Writing to impress rather than to express.
+
+"Ever heard the expression as clear as mud? It's intended as a humorous, or a sarcastic way of saying something is difficult to understand. Or, entirely unclear. The expression gives us a visual image, you're looking into a muddy pond and certainly can't see the bottom. Or you see, perhaps, a murkiness."
 
 # Terms
 - Jargon
