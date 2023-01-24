@@ -32,21 +32,25 @@
 - Define “weasel words.”
 
 # Course summary
+
 1. Bunch of videos that introduce concepts
 2. Lacks exercises for practice, only 15 sentences provided!
 3. Author sells her other courses a bit much (eurgh)
 
 # What is Plain Language?
+
 1. Brief and clear
 2. Avoid technical language
 3. Help readers understand the first time and saves cost
 
 # Problems that plain language solves
+
 1. Readers NOT reading your stuff in the first place.
 2. Readers misunderstanding you, create problems with comms. Extra emails, messages, calls for clarification!
 3. Waste time, productivity, and money (you writing/editing and them reading/understanding)
 
 # Some stats
+
 - Average sentence length is 20 words.
 
 # Tips
@@ -55,6 +59,7 @@
 3. Use commonly understood words
 
 # Interesting Quotes
+
 "Daniel Oppenheimer, a psychologist at Princeton University experimented with easy-to-understand versus more complex versions of writing, in which easy-to-understand words were replaced with more impressive sounding words. Such as changing angry to splenetic. His study concluded that the more grandiose and complex the language used the less intelligent the writer was rated. In other words, using big words made the writer look less educated. The number two mistake in Dawn Josephson's article, The Top 3 Business Writing Mistakes You’re Probably Making Right Now, is writing to impress rather than to express."
 
 - Big words made the writer look less intelligent.
@@ -63,12 +68,14 @@
 "Ever heard the expression as clear as mud? It's intended as a humorous, or a sarcastic way of saying something is difficult to understand. Or, entirely unclear. The expression gives us a visual image, you're looking into a muddy pond and certainly can't see the bottom. Or you see, perhaps, a murkiness."
 
 # Terms
+
 - Jargon
 - Gobbledygook
 - Weasel words
 - Readability Index/Indices (plural) - index is 'something that serves to 'guide'
 
 # Word replacements
+
 - Due to the fact that, Because
 
 
