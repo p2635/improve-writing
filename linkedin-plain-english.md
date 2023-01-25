@@ -54,9 +54,14 @@
 1. Read your text aloud (with your voice): reveal redundancies, lack of transitions, poor sentence structure.
 2. Use fewest words necessary
 3. Use commonly understood words
-4. Avoid overusing the same expression or words
-5. Avoid wordy expressions 'Due to the fact that' > 'Because', 'At this point in time' > 'Now'
-6. Avoid overuse of prepositions (e.g. to, in, from, of, on, about) - I don't understand this 100% yet but adding to notes anyway for now.
+4. Check your 'ing' words
+
+Avoid:
+
+1. Overuse same expression or words
+2. Wordy expressions 'Due to the fact that' > 'Because', 'At this point in time' > 'Now'
+3. Overuse prepositions (e.g. to, in, from, of, on, about) - I don't understand this 100% yet but adding to notes anyway for now. Examples: What did you do that _for_? (why did you do that?) and where are you _at_? (where are you?)
+4. Changing first person to third person etc (from we to you, or from I to you)
 
 ## Useful stats
 
