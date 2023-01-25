@@ -25,9 +25,9 @@ Reminder to self (24 Jan 2023): I know you're interested in Plain English right 
 
 Mark complete means:
 
-* I studied a course at least once.
-* I took notes on it.
-* I practised it with concrete evidence to show.
+- I studied a course at least once.
+- I took notes on it.
+- I practised it with concrete evidence to show.
 
 The list:
 
