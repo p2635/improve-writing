@@ -1,4 +1,4 @@
-# Writing in Plain English 
+# Writing in Plain English
 
 **About**
 
@@ -15,8 +15,8 @@
 - [Course summary](#course-summary)
 - [What is Plain Language?](#what-is-plain-language)
 - [Problems that plain language solves](#problems-that-plain-language-solves)
-- [Some stats](#some-stats)
 - [Tips](#tips)
+  - [Useful stats](#useful-stats)
 - [Interesting Quotes](#interesting-quotes)
 - [Terms](#terms)
 - [Word replacements](#word-replacements)
@@ -49,15 +49,21 @@
 2. Readers misunderstanding you, create problems with comms. Extra emails, messages, calls for clarification!
 3. Waste time, productivity, and money (you writing/editing and them reading/understanding)
 
-# Some stats
-
-- Average sentence length is 20 words.
-
 # Tips
 
 1. Read your text aloud (with your voice): reveal redundancies, lack of transitions, poor sentence structure.
 2. Use fewest words necessary
 3. Use commonly understood words
+4. Avoid overusing the same expression or words
+5. Avoid wordy expressions 'Due to the fact that' > 'Because', 'At this point in time' > 'Now'
+6. Avoid overuse of prepositions (e.g. to, in, from, of, on, about) - I don't understand this 100% yet but adding to notes anyway for now.
+
+## Useful stats
+
+- Word count
+- Readability level
+- Average syllables
+- Average sentence length (usually 20 words)
 
 # Interesting Quotes
 
@@ -81,39 +87,40 @@
 
 - Due to the fact that, Because
 
-
 # Practice Activity
+
 Try to describe what you did.
 
 1. Before we paint the room, we need to carry out a review of the accepted corporate colors so we can gain an understanding of what we need to order.
+
 - wordiness: 'carry out a review' (review), 'gain an understanding of what we need to order' (understand what to order)
-Suggestion:  "We need to review and order acceptable corporate colors before we paint the room."
+  Suggestion: "We need to review and order acceptable corporate colors before we paint the room."
 
-2. If you cannot make the payment of the past due $500, you must make an application in writing for an extension to make your payment.
-Suggestion: "If you can't pay for the $500 already due, you need to apply in writing for a payment extension."
+1. If you cannot make the payment of the past due $500, you must make an application in writing for an extension to make your payment.
+   Suggestion: "If you can't pay for the $500 already due, you need to apply in writing for a payment extension."
 
-3. We must ascertain the correct calculation of cost figures for the new addition.
+1. We must ascertain the correct calculation of cost figures for the new addition.
 
-4. The revision to get correct addresses is important for the committee in the assessment of duplication of mailings.
+1. The revision to get correct addresses is important for the committee in the assessment of duplication of mailings.
 
-5. The current focus of the automotive industry is accident prevention.
+1. The current focus of the automotive industry is accident prevention.
 
-6. It was her thorough research that finally persuaded me.
+1. It was her thorough research that finally persuaded me.
 
-7. There are likely to be many employees raising questions about this managerial approach.
+1. There are likely to be many employees raising questions about this managerial approach.
 
-8. It is inevitable that production costs will increase in the future.
+1. It is inevitable that production costs will increase in the future.
 
-9. When the process of remodeling a home that had wood that had rotted and beams that had cracked, the carpenters will have to remove all debris from the house they repaired before they begin their next construction project.
+1. When the process of remodeling a home that had wood that had rotted and beams that had cracked, the carpenters will have to remove all debris from the house they repaired before they begin their next construction project.
 
-10. Participants who have our insurance can deduct up to $500 as a medical expense for the cost of the massage treatment at a facility that we approve.
+1. Participants who have our insurance can deduct up to $500 as a medical expense for the cost of the massage treatment at a facility that we approve.
 
-11. It will behoove us to henceforth submit all requests for vacation at least or at a minimum of two weeks prior to the requested time off.
+1. It will behoove us to henceforth submit all requests for vacation at least or at a minimum of two weeks prior to the requested time off.
 
-12. The staff has initiated discussions revolving around the recently implemented attendance policy.
+1. The staff has initiated discussions revolving around the recently implemented attendance policy.
 
-13. Pertaining to the employee handbook, all employees are herewith required to read it and present a submission in writing to the undersigned that employee is in agreement with and fully agrees to be in compliance with all the policies.
+1. Pertaining to the employee handbook, all employees are herewith required to read it and present a submission in writing to the undersigned that employee is in agreement with and fully agrees to be in compliance with all the policies.
 
-14. Each and every employee will be required to give an accounting of the amount of time spent on the writing and the revision of all company policies that have been updated.
+1. Each and every employee will be required to give an accounting of the amount of time spent on the writing and the revision of all company policies that have been updated.
 
-15. I would like to make a suggestion that an examination be performed on the activities of all branch offices.
+1. I would like to make a suggestion that an examination be performed on the activities of all branch offices.
