@@ -1,6 +1,6 @@
-# Writing in Plain English
+<h1>Writing in Plain English</h1>
 
-**About**
+<h1>About</h1>
 
 - Platform: Linkedin Learning
 - Author (full name and title): Judy Steiner-Williams. Senior Lecturer at Kelley Business School
@@ -8,9 +8,8 @@
 - Course taken: 24 Jan 2023 (ish)
 - Link: https://www.linkedin.com/learning/writing-in-plain-english/
 
-**Contents**
+<h1>Contents</h1>
 
-- [Writing in Plain English](#writing-in-plain-english)
 - [Learning objectives](#learning-objectives)
 - [Course summary](#course-summary)
 - [What is Plain Language?](#what-is-plain-language)
