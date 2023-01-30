@@ -36,3 +36,4 @@ The list:
 - [ ] https://www.plainlanguage.gov/training/videos/
 - [ ] [Plain language 9 part video course](https://academy.govloop.com/watch/hDzHyqdB4T7K3fjbvuGk8B)
 - [ ] https://www.plainlanguage.gov/training/online-training/
+- [ ] https://www.plainenglish.co.uk/free-guides-2.html
